@@ -5,7 +5,7 @@ status: current
 group: Postdoctoral researchers
 photo: ../../assets/images/people/ghanshyam-hirani.jpg
 affiliation: University of Cambridge
-order: 7
+order: 2
 links: []
 ---
 

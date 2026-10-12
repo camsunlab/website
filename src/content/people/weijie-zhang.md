@@ -5,7 +5,7 @@ status: current
 group: AMET students
 photo: ../../assets/images/people/weijie-zhang.jpeg
 affiliation: University of Cambridge
-order: 10
+order: 9
 links: []
 ---
 

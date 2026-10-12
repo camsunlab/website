@@ -1188,7 +1188,7 @@ h3 {
 
 .news-item {
   display: grid;
-  grid-template-columns: 96px minmax(0, 1fr) auto;
+  grid-template-columns: 9.5rem minmax(0, 1fr) auto;
   gap: clamp(16px, 3vw, 34px);
   align-items: start;
   padding: 18px 0;
